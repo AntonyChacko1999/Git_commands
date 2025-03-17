@@ -26,3 +26,5 @@ git commit -m "my first commit"
 git push -u
 
 git clone <repository url> >>  for cloning a repository from github
+
+git branch newbranch  >> newbranch is the name of new branch
